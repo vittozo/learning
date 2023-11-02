@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698769191 source:c:\users\vittorio\onedrive\desktop\challange\sudoku_solver\main.c
+	<stdio.h>
+	<stdlib.h>
+
